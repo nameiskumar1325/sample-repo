@@ -1,0 +1,21 @@
+body {
+  background-color: #F43B86;
+  padding: 200px;
+}
+
+.parent {
+  background-color: #fff;
+  width: 100%;
+  height: 500px;
+  display: flex;
+  grid-gap: 5px;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.child {
+  background-color: #11052C;
+  width: 200px;
+  height: 200px;
+}
